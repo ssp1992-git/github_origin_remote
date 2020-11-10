@@ -1,2 +1,13 @@
 this is git
+C
+
+Creating a new branch is quick AND simple.
+
+A
+A
+B
+B
+B
+
+
 Creating a new branch is quick.
